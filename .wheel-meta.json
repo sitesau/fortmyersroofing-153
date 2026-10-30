@@ -1,0 +1,22 @@
+{
+  "wheel_id": 554,
+  "structure": "umbrella",
+  "slug": "fortmyersroofing-153",
+  "project": "roofing-contractors-fort-myers-8d0deab459bc0c0e956ffc0706e1be59",
+  "parent_t1_ref": "fortmyersroofing-011",
+  "node_role": "buffer",
+  "money_target": "fortmyersroofing.net",
+  "primary_kw": "roofing contractors fort myers",
+  "intended_url": "https://sitesau.github.io/fortmyersroofing-153/",
+  "tier": "T2",
+  "writeback_nonce": "7cf4493ef098fd84",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/roofing-contractors-fort-myers-011/",
+      "anchor": "Roofing Contractors Fort Myers: A Practical Homeowner Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
